@@ -9,3 +9,5 @@ aaaa("*", tango_v6)
 
 caa("", "letsencrypt.org", "issue")
 
+spf(_a, "v=spf1 a mx -all")
+
